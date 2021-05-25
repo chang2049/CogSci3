@@ -39,7 +39,8 @@ Datotid           Ver Bld Sign
 	<code codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" code="74468-0" displayName="Form Definition Document"/>
 	<title>Spørgeskema vedr. hjerterehabilitering, start</title>
 	<sdtc:statusCode code="NEW"/>
-	<effectiveTime value="202012212048+0100"/>
+
+	<effectiveTime value="20201221204800+0100"/>
 	<confidentialityCode code="N" codeSystem="2.16.840.1.113883.5.25"/>
 	<languageCode code="da-DK"/>
 	<versionNumber value="1"/>
